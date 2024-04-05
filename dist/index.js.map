@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/functions/hello.ts"],"sourcesContent":["export function sayHello() {\n  console.log(\"hi\");\n}\n\nexport function sayGoodbye() {\n  console.log(\"goodbye\");\n}\n"],"mappings":";AAAO,SAAS,WAAW;AACzB,UAAQ,IAAI,IAAI;AAClB;AAEO,SAAS,aAAa;AAC3B,UAAQ,IAAI,SAAS;AACvB;","names":[]}

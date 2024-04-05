@@ -1,5 +1,3 @@
-// test/test.js
+import { sayHello } from "xy69";
 
-const helloNpm = require("xy69");
-
-console.log(helloNpm());
+sayHello();
